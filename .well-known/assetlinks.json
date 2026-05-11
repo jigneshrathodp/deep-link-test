@@ -3,8 +3,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.your.package.name", 
-      "sha256_cert_fingerprints": ["તમારી_SHA256_કી_અહીં_નાખો"]
+      "package_name": "com.example.deeplinking", 
+      "sha256_cert_fingerprints": ["34:CF:35:46:FC:B1:24:93:8F:A5:82:3D:97:2B:9C:64:6D:6B:A3:49:5F:B0:56:92:B7:7C:06:41:4C:D7:92:AA"]
     }
   }
 ]
